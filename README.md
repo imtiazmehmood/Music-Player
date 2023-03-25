@@ -30,7 +30,7 @@ You have to put sounds and pictures in correct positions in the data. and you ca
 
 ```console
 git clone https://github.com/imtiazmehmood/Music-Player.git
-cd react-native-music-app
+cd Music-Player
 ```
 
 #### Install dependencies
