@@ -76,7 +76,7 @@ yarn android
 
 ### Reporting Issues
 
-If believe you've found an issue, please [report it](https://github.com/imtiazmeh/Melody/issues) along with any relevant details to reproduce it.
+If believe you've found an issue, please [report it](https://github.com/imtiazmehmood/Music-Player/issues) along with any relevant details to reproduce it.
 
 ### Asking for help
 
