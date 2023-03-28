@@ -14,10 +14,12 @@
     "react-native": "^0.64.0",
     "react-native-fast-image": "^8.3.4",
     "react-native-gesture-handler": "^1.10.2",
-    "react-native-reanimated": "^2.0.0",
+    "react-native-reanimated": "~2.4.1",
     "react-native-safe-area-context": "^3.1.9",
     "react-native-svg": "^12.1.0",
     "react-native-swift": "^1.2.3",
+    "@react-navigation/native": "^5.9.3",
+    "@react-navigation/stack": "^5.14.3",
     "react-native-track-player": "git+https://github.com/m-inan/react-native-track-player.git"
   },
   "devDependencies": {
@@ -29,11 +31,11 @@
     "@types/react-test-renderer": "^16.9.2",
     "@typescript-eslint/eslint-plugin": "^2.27.0",
     "@typescript-eslint/parser": "^2.27.0",
+    "metro-react-native-babel-preset": "^0.64.0",
     "babel-jest": "^25.1.0",
     "babel-plugin-module-resolver": "^4.0.0",
     "eslint": "^6.5.1",
     "jest": "^25.1.0",
-    "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.13.1",
     "typescript": "^3.8.3"
   },
