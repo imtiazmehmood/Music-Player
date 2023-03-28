@@ -3,6 +3,7 @@ export const EQUALIZER_HEIGHTS = [
 ];
 export const styles = {
   container: {
+    paddingTop: 30,
     flex: 1,
     padding: 10,
   },
