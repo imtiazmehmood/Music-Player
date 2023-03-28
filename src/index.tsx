@@ -2,7 +2,7 @@ import React from "react";
 import { StatusBar } from "react-native";
 
 import { Provider } from "./provider";
-import { Screens } from "./screens";
+import RootNavigationStack from "navigator";
 
 interface Props {}
 
@@ -14,7 +14,7 @@ export const App: React.FC<Props> = () => {
         backgroundColor="transparent"
         barStyle="light-content"
       />
-      <Screens />
+      <RootNavigationStack />
     </Provider>
   );
 };

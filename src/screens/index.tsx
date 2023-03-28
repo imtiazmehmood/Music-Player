@@ -1,10 +1,10 @@
-import React from 'react';
-import { View, StyleSheet } from 'react-native';
+import React from "react";
+import { View, StyleSheet } from "react-native";
 
-import { Colors } from 'src/constants';
+import { Colors } from "src/constants";
 
-import { Playlist } from './Playlist';
-import { Player } from './Player';
+import { Playlist } from "./Playlist";
+import { Player } from "./Player";
 
 export const Screens = () => {
   return (
